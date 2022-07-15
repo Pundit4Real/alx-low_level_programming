@@ -1,1 +1,1 @@
-A fuction that write a block of text before the main function is executed
+Write a function that frees a list_t list.
