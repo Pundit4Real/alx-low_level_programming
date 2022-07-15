@@ -1,1 +1,1 @@
-Write a 64-bit program in assembly that prints Hello, Holberton, followed by a new line.
+A fuction that write a block of text before the main function is executed
